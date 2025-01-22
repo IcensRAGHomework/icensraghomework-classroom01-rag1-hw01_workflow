@@ -38,7 +38,7 @@ AZURE_OPENAI_GPT4O_VERSION=your_api_version_here
                  "date": "2024-10-10",
                  "name": "國慶日"
              }
-        ]
+         ]
      }
      ```
 
